@@ -1,0 +1,10 @@
+name: Hiking_App
+account: markewing
+server: shinyapps.io
+appId: 119586
+bundleId: 529513
+url: https://markewing.shinyapps.io/Hiking_App/
+when: 1470928064.24595
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Data/~$Full File.xlsx|Data/activity_1249732070.gpx|Data/activity_1249733455.gpx|Data/activity_1249734091.gpx|Data/activity_1249735213.gpx|Data/activity_1249736689.gpx|Data/activity_1249738263.gpx|Data/Convert GPX to CSV.py|Data/hikes.csv|img/~$pictureDB.xlsx|img/camera_icon3.gif
